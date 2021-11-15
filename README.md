@@ -1,6 +1,6 @@
 # Delta Stock
 
-Trading app where you can play with stocks.
+Trading app where you have wallet, portfolio with stocks and market with stocks. You can buy stocks add them to your portfolio, close the day, wait for price change then sell.
 
 # vue-cli
 
